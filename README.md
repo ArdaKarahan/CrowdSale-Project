@@ -1,0 +1,1 @@
+This repository is for sharing my process of building the crowdsale project. This project covers building smart contracts and testing them via unit and integration tests in hardhat. I will adapt this project to a frontend as soon as I get my fullstack blockchain developer course done. Thank you! 
