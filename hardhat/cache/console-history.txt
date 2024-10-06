@@ -1,0 +1,11 @@
+await contractSD_.transfer("0x59b670e9fA9D0A427751Af201D676719a970857b", 100000);
+const contractSD_ = await contractSD.attach("0xc6e7DF5E7b4f2A278906862b61205850344D4e7d");
+const contractSD = await ethers.getContractFactory("StarDucks");
+await contract.totalSupply()
+const contract = await Contract.attach("0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9");
+const Contract = await ethers.getContractFactory("StarDucks");
+const contract2 = new Contract()
+const contract = new Contract()
+const contract = new Contract
+const Contract = await ethers.getContractFactory("StarDucks");
+const const Contract = await ethers.getContractFactory("StarDucks");
